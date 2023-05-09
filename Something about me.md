@@ -1,3 +1,6 @@
 # PROFILE
-## My name is DEVANA
-### i'm curren stud
+My name is DEVANA
+```
+i'm curren studing in GOVERNMENT POLYTECHNIC COLLEGE,KUNNAMKULAM
+```
+I'M INTERESTED IN DRAWING,READING
